@@ -1,5 +1,8 @@
 # 💫 About Me:
-i am a mern stack developer<br>
+Frontend developer
+Reactjs developer
+mern stack developer<br>
+
 
 
 ## 🌐 Socials:
