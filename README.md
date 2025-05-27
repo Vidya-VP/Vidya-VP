@@ -1,6 +1,6 @@
 # 💫 About Me:
-Frontend developer
-Reactjs developer
+Frontend developer,
+Reactjs developer,
 mern stack developer<br>
 
 
